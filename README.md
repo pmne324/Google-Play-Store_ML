@@ -6,9 +6,11 @@ DataSet is availible in googleplaystore.csv</br>
 Requirement modules are available in requirements.txt and you can install them with :</br>
 $ pip install -r requirements.txt </br>
 Or you can install requirements with follow commands :</br>
-$ pip install jupyter</br>
-$ pip install numpy</br>
-$ pip install pandas</br>
-$ pip install matpoltlib</br>
-$ pip install seaborn</br>
-$ pip install pandas-profiling (optional)</br>
+<pre>
+pip install jupyter</br>
+pip install numpy</br>
+pip install pandas</br>
+pip install matpoltlib</br>
+pip install seaborn</br>
+pip install pandas-profiling (optional)</br>
+</pre>
