@@ -3,7 +3,7 @@ Machin Learning for Google PLay Store DataSet</br>
 This notebook contain EDA(Exploratory Data Analysis), Feature Engineering and Machin Learning.</br>
 DataSet is availible in googleplaystore_ml/googleplaystore.csv</br>
 ## Requirements:
-Requirement modules are availible in requirements.txt and you can install them with :</br>
+Requirement modules are available in requirements.txt and you can install them with :</br>
 $ pip install -r requirements.txt </br>
 Or you can install requirements with follow commands :</br>
 $ pip install jupyter</br>
