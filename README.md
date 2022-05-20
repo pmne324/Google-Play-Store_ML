@@ -1,4 +1,4 @@
-# googleplaystore_ml
+# GooglePlayStore_ML
 Machin Learning for Google PLay Store DataSet</br>
 This notebook contain EDA(Exploratory Data Analysis), Feature Engineering and Machin Learning.</br>
 DataSet is availible in googleplaystore_ml/googleplaystore.csv</br>
